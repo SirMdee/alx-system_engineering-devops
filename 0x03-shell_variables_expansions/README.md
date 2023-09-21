@@ -1,1 +1,1 @@
-This is the file i was asked to create
+0x03. Shell, init files, variables and expansions
